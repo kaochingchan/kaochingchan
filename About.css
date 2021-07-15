@@ -1,0 +1,59 @@
+.chinesefont{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 15px;
+    letter-spacing: 3px;
+}
+h1,h3,h4,h5,li,p,a{
+    font-family: 'Noto Sans TC', sans-serif;
+    letter-spacing: 2.5px;
+}
+header nav img{
+    width: 60px;
+
+}
+.nav-item a:hover{
+    color: #005780;
+    transform: scale(1.1);
+}
+header li{
+    margin: 0px 18px;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+#intro_about h2{
+    font-weight: 500;
+    font-size: 35px;
+    letter-spacing: 3px;
+
+}
+#intro_about h3{
+    font-weight: 400;
+    font-size: 27px;
+    letter-spacing: 3px;
+
+}
+#intro_about .container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#intro_about p{
+    font-size: 17px;
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+#intro_about img{
+    width: 300px;
+    border-radius: 100%;
+
+}
+#intro_brand .jumbotron{
+    background-color: #005780;
+
+}
+#intro_brand img{
+    width: 250px;
+    margin-left: 25px;
+
+}
+#intro_brand{
+    color: white;
+}
